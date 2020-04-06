@@ -1,10 +1,9 @@
 <%@ Page Title="dotnet runtime issue 27774" Language="C#" MasterPageFile="Web.master" %>
-<%@ Import Namespace="Project" %>
 
 <script runat="server">
     public void Page_Load()
     {
-        var works = MessagePackReference.TestReference();
+            var x = MessagePack.MessagePackSerializer.ConvertFromJson("{}");
     }
 </script>
 

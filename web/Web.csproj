@@ -9,9 +9,7 @@
     <GenerateBindingRedirectsOutputType>true</GenerateBindingRedirectsOutputType>
   </PropertyGroup>
   <ItemGroup>
-    <ProjectReference Include="..\project\Project.csproj" />
-  </ItemGroup>
-  <ItemGroup>
+    <PackageReference Include="MessagePack" Version="2.1.90" />
     <PackageReference Include="System.Buffers" Version="4.5.1" />
   </ItemGroup>
 </Project>
