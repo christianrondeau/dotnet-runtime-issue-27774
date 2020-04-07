@@ -1,0 +1,141 @@
+*** Assembly Binder Log Entry  (2020-04-06 @ 8:05:18 PM) ***
+
+The operation failed.
+Bind result: hr = 0x80131040. No description available.
+
+Assembly manager loaded from:  C:\Windows\Microsoft.NET\Framework64\v4.0.30319\clr.dll
+Running under executable  c:\windows\system32\inetsrv\w3wp.exe
+--- A detailed error log follows. 
+
+=== Pre-bind state information ===
+LOG: DisplayName = System.Buffers, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL
+ (Fully-specified)
+LOG: Appbase = file:///D:/Dev/dotnet-runtime-issue-27774/web/
+LOG: Initial PrivatePath = D:\Dev\dotnet-runtime-issue-27774\web\bin
+LOG: Dynamic Base = C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\dotnet-runtime-issue-27774\1b71a36e
+LOG: Cache Base = C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\dotnet-runtime-issue-27774\1b71a36e
+LOG: AppName = 623c44e9
+Calling assembly : (Unknown).
+===
+LOG: This bind starts in default load context.
+LOG: Using application configuration file: D:\Dev\dotnet-runtime-issue-27774\web\web.config
+LOG: Using host configuration file: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\aspnet.config
+LOG: Using machine configuration file from C:\Windows\Microsoft.NET\Framework64\v4.0.30319\config\machine.config.
+LOG: GAC Lookup was unsuccessful.
+LOG: Attempting download of new URL file:///C:/Windows/Microsoft.NET/Framework64/v4.0.30319/Temporary ASP.NET Files/dotnet-runtime-issue-27774/1b71a36e/623c44e9/System.Buffers.DLL.
+LOG: Attempting download of new URL file:///C:/Windows/Microsoft.NET/Framework64/v4.0.30319/Temporary ASP.NET Files/dotnet-runtime-issue-27774/1b71a36e/623c44e9/System.Buffers/System.Buffers.DLL.
+LOG: Attempting download of new URL file:///D:/Dev/dotnet-runtime-issue-27774/web/bin/System.Buffers.DLL.
+LOG: Assembly download was successful. Attempting setup of file: D:\Dev\dotnet-runtime-issue-27774\web\bin\System.Buffers.dll
+LOG: Entering download cache setup phase.
+LOG: Assembly Name is: System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51
+WRN: Comparing the assembly name resulted in the mismatch: Build Number
+ERR: The assembly reference did not match the assembly definition found.
+ERR: Setup failed with hr = 0x80131040.
+ERR: Failed to complete setup of assembly (hr = 0x80131040). Probing terminated.
+
+*** Assembly Binder Log Entry  (2020-04-06 @ 8:05:18 PM) ***
+
+The operation failed.
+Bind result: hr = 0x80131040. No description available.
+
+Assembly manager loaded from:  C:\Windows\Microsoft.NET\Framework64\v4.0.30319\clr.dll
+Running under executable  c:\windows\system32\inetsrv\w3wp.exe
+--- A detailed error log follows. 
+
+=== Pre-bind state information ===
+LOG: DisplayName = System.Buffers, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL
+ (Fully-specified)
+LOG: Appbase = file:///D:/Dev/dotnet-runtime-issue-27774/web/
+LOG: Initial PrivatePath = D:\Dev\dotnet-runtime-issue-27774\web\bin
+LOG: Dynamic Base = C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\dotnet-runtime-issue-27774\1b71a36e
+LOG: Cache Base = C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\dotnet-runtime-issue-27774\1b71a36e
+LOG: AppName = 623c44e9
+Calling assembly : (Unknown).
+===
+LOG: This bind starts in default load context.
+LOG: Using application configuration file: D:\Dev\dotnet-runtime-issue-27774\web\web.config
+LOG: Using host configuration file: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\aspnet.config
+LOG: Using machine configuration file from C:\Windows\Microsoft.NET\Framework64\v4.0.30319\config\machine.config.
+LOG: GAC Lookup was unsuccessful.
+LOG: Attempting download of new URL file:///C:/Windows/Microsoft.NET/Framework64/v4.0.30319/Temporary ASP.NET Files/dotnet-runtime-issue-27774/1b71a36e/623c44e9/System.Buffers.DLL.
+LOG: Attempting download of new URL file:///C:/Windows/Microsoft.NET/Framework64/v4.0.30319/Temporary ASP.NET Files/dotnet-runtime-issue-27774/1b71a36e/623c44e9/System.Buffers/System.Buffers.DLL.
+LOG: Attempting download of new URL file:///D:/Dev/dotnet-runtime-issue-27774/web/bin/System.Buffers.DLL.
+LOG: Assembly download was successful. Attempting setup of file: D:\Dev\dotnet-runtime-issue-27774\web\bin\System.Buffers.dll
+LOG: Entering download cache setup phase.
+LOG: Assembly Name is: System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51
+WRN: Comparing the assembly name resulted in the mismatch: Build Number
+ERR: The assembly reference did not match the assembly definition found.
+ERR: Setup failed with hr = 0x80131040.
+ERR: Failed to complete setup of assembly (hr = 0x80131040). Probing terminated.
+
+*** Assembly Binder Log Entry  (2020-04-06 @ 8:05:18 PM) ***
+
+The operation failed.
+Bind result: hr = 0x80131040. No description available.
+
+Assembly manager loaded from:  C:\Windows\Microsoft.NET\Framework64\v4.0.30319\clr.dll
+Running under executable  c:\windows\system32\inetsrv\w3wp.exe
+--- A detailed error log follows. 
+
+=== Pre-bind state information ===
+LOG: DisplayName = System.Buffers, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51
+ (Fully-specified)
+LOG: Appbase = file:///D:/Dev/dotnet-runtime-issue-27774/web/
+LOG: Initial PrivatePath = D:\Dev\dotnet-runtime-issue-27774\web\bin
+LOG: Dynamic Base = C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\dotnet-runtime-issue-27774\1b71a36e
+LOG: Cache Base = C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\dotnet-runtime-issue-27774\1b71a36e
+LOG: AppName = 623c44e9
+Calling assembly : MessagePack, Version=2.1.0.0, Culture=neutral, PublicKeyToken=b4a0369545f0a1be.
+===
+LOG: This bind starts in default load context.
+LOG: Using application configuration file: D:\Dev\dotnet-runtime-issue-27774\web\web.config
+LOG: Using host configuration file: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\aspnet.config
+LOG: Using machine configuration file from C:\Windows\Microsoft.NET\Framework64\v4.0.30319\config\machine.config.
+LOG: Post-policy reference: System.Buffers, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51
+LOG: GAC Lookup was unsuccessful.
+LOG: Attempting download of new URL file:///C:/Windows/Microsoft.NET/Framework64/v4.0.30319/Temporary ASP.NET Files/dotnet-runtime-issue-27774/1b71a36e/623c44e9/System.Buffers.DLL.
+LOG: Attempting download of new URL file:///C:/Windows/Microsoft.NET/Framework64/v4.0.30319/Temporary ASP.NET Files/dotnet-runtime-issue-27774/1b71a36e/623c44e9/System.Buffers/System.Buffers.DLL.
+LOG: Attempting download of new URL file:///D:/Dev/dotnet-runtime-issue-27774/web/bin/System.Buffers.DLL.
+LOG: Assembly download was successful. Attempting setup of file: D:\Dev\dotnet-runtime-issue-27774\web\bin\System.Buffers.dll
+LOG: Entering download cache setup phase.
+LOG: Assembly Name is: System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51
+WRN: Comparing the assembly name resulted in the mismatch: Build Number
+ERR: The assembly reference did not match the assembly definition found.
+ERR: Setup failed with hr = 0x80131040.
+ERR: Failed to complete setup of assembly (hr = 0x80131040). Probing terminated.
+
+*** Assembly Binder Log Entry  (2020-04-06 @ 8:05:18 PM) ***
+
+The operation failed.
+Bind result: hr = 0x80131040. No description available.
+
+Assembly manager loaded from:  C:\Windows\Microsoft.NET\Framework64\v4.0.30319\clr.dll
+Running under executable  c:\windows\system32\inetsrv\w3wp.exe
+--- A detailed error log follows. 
+
+=== Pre-bind state information ===
+LOG: DisplayName = System.Buffers, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51
+ (Fully-specified)
+LOG: Appbase = file:///D:/Dev/dotnet-runtime-issue-27774/web/
+LOG: Initial PrivatePath = D:\Dev\dotnet-runtime-issue-27774\web\bin
+LOG: Dynamic Base = C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\dotnet-runtime-issue-27774\1b71a36e
+LOG: Cache Base = C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Temporary ASP.NET Files\dotnet-runtime-issue-27774\1b71a36e
+LOG: AppName = 623c44e9
+Calling assembly : MessagePack, Version=2.1.0.0, Culture=neutral, PublicKeyToken=b4a0369545f0a1be.
+===
+LOG: This bind starts in default load context.
+LOG: Using application configuration file: D:\Dev\dotnet-runtime-issue-27774\web\web.config
+LOG: Using host configuration file: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\aspnet.config
+LOG: Using machine configuration file from C:\Windows\Microsoft.NET\Framework64\v4.0.30319\config\machine.config.
+LOG: Post-policy reference: System.Buffers, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51
+LOG: GAC Lookup was unsuccessful.
+LOG: Attempting download of new URL file:///C:/Windows/Microsoft.NET/Framework64/v4.0.30319/Temporary ASP.NET Files/dotnet-runtime-issue-27774/1b71a36e/623c44e9/System.Buffers.DLL.
+LOG: Attempting download of new URL file:///C:/Windows/Microsoft.NET/Framework64/v4.0.30319/Temporary ASP.NET Files/dotnet-runtime-issue-27774/1b71a36e/623c44e9/System.Buffers/System.Buffers.DLL.
+LOG: Attempting download of new URL file:///D:/Dev/dotnet-runtime-issue-27774/web/bin/System.Buffers.DLL.
+LOG: Assembly download was successful. Attempting setup of file: D:\Dev\dotnet-runtime-issue-27774\web\bin\System.Buffers.dll
+LOG: Entering download cache setup phase.
+LOG: Assembly Name is: System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51
+WRN: Comparing the assembly name resulted in the mismatch: Build Number
+ERR: The assembly reference did not match the assembly definition found.
+ERR: Setup failed with hr = 0x80131040.
+ERR: Failed to complete setup of assembly (hr = 0x80131040). Probing terminated.
